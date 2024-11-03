@@ -16,7 +16,8 @@ CoreLite is a 32-bit operating system based on the Intel x86 architecture. This 
 
 ## Current Build Instructions
 
-To build and run CoreLite, you will need make and QEMU installed on your system.
+To build and run CoreLite, you will need make and QEMU installed on your Linux system.
+If you are on Windows, use Cygwin64.
 
 1. Clone this repository.
 2. In the terminal, navigate to the CoreLite project directory.
